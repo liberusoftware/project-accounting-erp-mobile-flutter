@@ -1,0 +1,9 @@
+{
+  "project": "boilerplate",
+  "presentation": "mobile-flutter",
+  "foundation": "project-boilerplate-mobile-flutter",
+  "foundationCommit": null,
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md",
+  "status": "skeleton",
+  "enabledModules": []
+}
